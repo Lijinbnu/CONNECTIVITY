@@ -8,3 +8,6 @@
   4) extract time series (see regional_FC_node.py)
   5) calculate regional wise FC for each subj (cal_roi_FC.py)
      this part is extramely difficult.... 
+     
+     
+ ### btw, maybe this is my very first and very last repository~~
